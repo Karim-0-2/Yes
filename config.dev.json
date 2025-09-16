@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "",
+    "email": "firetix000@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,16 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61574316459995",
-    "61563936275874"
+    "61557991443492"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🌸Makima San 🌸",
-  "prefix": ".",
+  "nickNameBot": "🌸Sana🌸",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
